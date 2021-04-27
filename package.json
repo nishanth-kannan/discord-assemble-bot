@@ -1,0 +1,19 @@
+{
+  "name": "discord-assemble-bot",
+  "version": "1.0.0",
+  "description": "Bot to call out to people when a trigger word is said",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishanth-kannan/discord-assemble-bot.git"
+  },
+  "author": "Nishanth Kannan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishanth-kannan/discord-assemble-bot/issues"
+  },
+  "homepage": "https://github.com/nishanth-kannan/discord-assemble-bot#readme"
+}
